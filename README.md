@@ -28,10 +28,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 
-<br/>
 
-
-### Recent Activity
+### 💻 Recent Activity
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#30](https://github.com/FlavioAandres/Lambdas-WP/issues/30) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
 2. 🗣 Commented on [#28](https://github.com/FlavioAandres/Lambdas-WP/issues/28) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
