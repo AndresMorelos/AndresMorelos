@@ -30,6 +30,8 @@
 
 <br/>
 
+<!--START_SECTION:activity-->
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
