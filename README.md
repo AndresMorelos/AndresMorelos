@@ -30,6 +30,8 @@
 
 <br/>
 
+
+### Recent Activity
 <!--START_SECTION:activity-->
 
 ### ⚙️ &nbsp;GitHub Analytics
