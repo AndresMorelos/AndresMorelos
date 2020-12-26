@@ -38,6 +38,11 @@
 5. ❗️ Opened issue [#29](https://github.com/FlavioAandres/Lambdas-WP/issues/29) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
 <!--END_SECTION:activity-->
 
+### 📓 &nbsp;Latests Posts
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
