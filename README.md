@@ -32,11 +32,11 @@
 
 ### 💻 Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#31](https://github.com/FlavioAandres/Lambdas-WP/issues/31) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
-2. ❗️ Opened issue [#32](https://github.com/FlavioAandres/Lambdas-WP/issues/32) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
+1. 🎉 Merged PR [#1](https://github.com/AndresMorelos/developer-utils-app/pull/1) in [AndresMorelos/developer-utils-app](https://github.com/AndresMorelos/developer-utils-app)
+2. 💪 Opened PR [#1](https://github.com/AndresMorelos/developer-utils-app/pull/1) in [AndresMorelos/developer-utils-app](https://github.com/AndresMorelos/developer-utils-app)
 3. 🗣 Commented on [#31](https://github.com/FlavioAandres/Lambdas-WP/issues/31) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
-4. 🎉 Merged PR [#1](https://github.com/AndresMorelos/aws-simple-email-forwarding/pull/1) in [AndresMorelos/aws-simple-email-forwarding](https://github.com/AndresMorelos/aws-simple-email-forwarding)
-5. 💪 Opened PR [#1](https://github.com/AndresMorelos/aws-simple-email-forwarding/pull/1) in [AndresMorelos/aws-simple-email-forwarding](https://github.com/AndresMorelos/aws-simple-email-forwarding)
+4. ❗️ Opened issue [#32](https://github.com/FlavioAandres/Lambdas-WP/issues/32) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
+5. 🗣 Commented on [#31](https://github.com/FlavioAandres/Lambdas-WP/issues/31) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
 <!--END_SECTION:activity-->
 
 ### 📓 &nbsp;Latests Posts
