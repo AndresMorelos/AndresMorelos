@@ -33,11 +33,11 @@
 
 ### 💻 Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/AndresMorelos/developer-utils-app/issues/6) in [AndresMorelos/developer-utils-app](https://github.com/AndresMorelos/developer-utils-app)
-2. 🎉 Merged PR [#5](https://github.com/AndresMorelos/developer-utils-app/pull/5) in [AndresMorelos/developer-utils-app](https://github.com/AndresMorelos/developer-utils-app)
-3. 💪 Opened PR [#5](https://github.com/AndresMorelos/developer-utils-app/pull/5) in [AndresMorelos/developer-utils-app](https://github.com/AndresMorelos/developer-utils-app)
-4. 🎉 Merged PR [#4](https://github.com/AndresMorelos/developer-utils-app/pull/4) in [AndresMorelos/developer-utils-app](https://github.com/AndresMorelos/developer-utils-app)
-5. 💪 Opened PR [#4](https://github.com/AndresMorelos/developer-utils-app/pull/4) in [AndresMorelos/developer-utils-app](https://github.com/AndresMorelos/developer-utils-app)
+1. 🎉 Merged PR [#7](https://github.com/AndresMorelos/developer-utils-app/pull/7) in [AndresMorelos/developer-utils-app](https://github.com/AndresMorelos/developer-utils-app)
+2. ❗️ Closed issue [#6](https://github.com/AndresMorelos/developer-utils-app/issues/6) in [AndresMorelos/developer-utils-app](https://github.com/AndresMorelos/developer-utils-app)
+3. 💪 Opened PR [#7](https://github.com/AndresMorelos/developer-utils-app/pull/7) in [AndresMorelos/developer-utils-app](https://github.com/AndresMorelos/developer-utils-app)
+4. ❗️ Opened issue [#6](https://github.com/AndresMorelos/developer-utils-app/issues/6) in [AndresMorelos/developer-utils-app](https://github.com/AndresMorelos/developer-utils-app)
+5. 🎉 Merged PR [#5](https://github.com/AndresMorelos/developer-utils-app/pull/5) in [AndresMorelos/developer-utils-app](https://github.com/AndresMorelos/developer-utils-app)
 <!--END_SECTION:activity-->
 
 ### 📓 &nbsp;Latests Posts
