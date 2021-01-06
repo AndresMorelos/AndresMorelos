@@ -34,10 +34,10 @@
 ### 💻 Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#9](https://github.com/AndresMorelos/developer-utils-app/issues/9) in [AndresMorelos/developer-utils-app](https://github.com/AndresMorelos/developer-utils-app)
-2. ❗️ Closed issue [#30](https://github.com/FlavioAandres/Lambdas-WP/issues/30) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
-3. 🗣 Commented on [#30](https://github.com/FlavioAandres/Lambdas-WP/issues/30) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
-4. ❗️ Closed issue [#31](https://github.com/FlavioAandres/Lambdas-WP/issues/31) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
-5. 🗣 Commented on [#31](https://github.com/FlavioAandres/Lambdas-WP/issues/31) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
+2. 🎉 Merged PR [#10](https://github.com/AndresMorelos/developer-utils-app/pull/10) in [AndresMorelos/developer-utils-app](https://github.com/AndresMorelos/developer-utils-app)
+3. ❗️ Closed issue [#9](https://github.com/AndresMorelos/developer-utils-app/issues/9) in [AndresMorelos/developer-utils-app](https://github.com/AndresMorelos/developer-utils-app)
+4. 💪 Opened PR [#10](https://github.com/AndresMorelos/developer-utils-app/pull/10) in [AndresMorelos/developer-utils-app](https://github.com/AndresMorelos/developer-utils-app)
+5. 🗣 Commented on [#9](https://github.com/AndresMorelos/developer-utils-app/issues/9) in [AndresMorelos/developer-utils-app](https://github.com/AndresMorelos/developer-utils-app)
 <!--END_SECTION:activity-->
 
 ### 📓 &nbsp;Latests Posts
