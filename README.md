@@ -1,51 +1,56 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Andrés Morelos</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Andres Morelos -->
+<!-- ## 👋 &nbsp; Hey there! I'm Andres Morelos -->
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp; About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🌱 &nbsp;I'm on track for learning more about Data Science, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Photo Shoots and Reading as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at me@andresmorelos.dev! I'll try to respond as soon as I can.
+💡 &nbsp; I like to explore new technologies and develop software solutions and quick hacks.\
+🌱 &nbsp; I'm on track for learning more about Data Science, Systems Design, and Cloud Architecture.\
+✍️ &nbsp; In my free time, I pursue Photo Shoots and Reading as hobbies/side hustles.\
+💬 &nbsp; Feel free to reach out to me for some interesting discussion.\
+✉️ &nbsp; You can shoot me an email at andresmorelos123@gmail.com! I'll try to respond as soon as I can.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AndresMorelos/AndresMorelos/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AndresMorelos/AndresMorelos/master/assets/coding.gif" align="right" width="300px"/>
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp; Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Electron](https://img.shields.io/badge/-Electron-05122A?style=flat&logo=electron)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-
+[![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)](https://github.com/AndresMorelos?tab=repositories&q=&type=&language=python)&nbsp; 
+[![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)](https://github.com/AndresMorelos?tab=repositories&q=&type=&language=javascript)&nbsp; 
+[![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)](https://github.com/AndresMorelos?tab=repositories&q=&type=&language=typescript)&nbsp; 
+[![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)](https://github.com/AndresMorelos?tab=repositories&q=&type=&language=java)&nbsp; 
+[![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)](https://github.com/AndresMorelos?tab=repositories&q=&type=&language=nodejs)&nbsp; 
+[![Electron](https://img.shields.io/badge/-Electron-05122A?style=flat&logo=electron)](https://github.com/AndresMorelos?tab=repositories&q=&type=&language=javascript)&nbsp; 
+[![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)](https://github.com/AndresMorelos?tab=repositories&q=&type=&language=python)&nbsp; 
+[![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)](https://github.com/AndresMorelos?tab=repositories&q=&type=&language=python)&nbsp; 
+[![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)](https://github.com/AndresMorelos?tab=repositories&q=&type=&language=html)&nbsp; 
+[![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)](https://github.com/AndresMorelos?tab=repositories&q=&type=&language=css)&nbsp; 
+[![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)](https://github.com/AndresMorelos?tab=repositories&q=&type=&language=)&nbsp; 
+[![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](https://github.com/AndresMorelos?tab=repositories&q=&type=&language=)&nbsp; 
+[![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)](https://github.com/AndresMorelos?tab=repositories&q=&type=&language=)&nbsp; 
+[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/AndresMorelos?tab=repositories&q=&type=&language=)&nbsp; 
+[![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)](https://github.com/AndresMorelos?tab=repositories&q=&type=&language=)&nbsp; 
 
 ### 💻 Recent Activity
+
 <!--START_SECTION:activity-->
+
 1. 🎉 Merged PR [#15](https://github.com/AndresMorelos/developer-toolbox/pull/15) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
 2. 💪 Opened PR [#15](https://github.com/AndresMorelos/developer-toolbox/pull/15) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
 3. ❗️ Opened issue [#14](https://github.com/AndresMorelos/developer-toolbox/issues/14) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
 4. 🎉 Merged PR [#13](https://github.com/AndresMorelos/developer-toolbox/pull/13) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
 5. ❗️ Closed issue [#12](https://github.com/AndresMorelos/developer-toolbox/issues/12) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
+
 <!--END_SECTION:activity-->
 
-### 📓 &nbsp;Latests Posts
-<!-- BLOG-POST-LIST:START -->
-- [¿Cómo crear un reenviador de correos sencillo usando AWS SES y Serverless?](https://medium.com/@andresmorelos/c%C3%B3mo-crear-un-reenviador-de-correos-sencillo-usando-aws-ses-y-serverless-bf653385743a?source=rss-189eff4830bb------2)
-<!-- BLOG-POST-LIST:END -->
+### 📓 &nbsp; Latests Posts
 
-### ⚙️ &nbsp;GitHub Analytics
+<!-- BLOG-POST-LIST: START -->
+
+* [¿Cómo crear un reenviador de correos sencillo usando AWS SES y Serverless?](https://medium.com/@andresmorelos/c%C3%B3mo-crear-un-reenviador-de-correos-sencillo-usando-aws-ses-y-serverless-bf653385743a?source=rss-189eff4830bb------2)
+
+<!-- BLOG-POST-LIST: END -->
+
+### ⚙️ &nbsp; GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/AndresMorelos">
@@ -54,7 +59,7 @@
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp; Connect with Me
 
 <p align="center">
 <a href="https://www.andresmorelos.dev"><img src="https://img.shields.io/badge/-andresmorelos.dev-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
