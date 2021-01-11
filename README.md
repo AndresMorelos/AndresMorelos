@@ -14,6 +14,9 @@
 
 ### 🛠 &nbsp; Tech Stack
 
+[![Serverless](https://img.shields.io/badge/-Serverless-05122A?style=flat&logo=serverless)](https://github.com/AndresMorelos?tab=repositories&q=&type=&language=)&nbsp; 
+[![Amazon Web Services](https://img.shields.io/badge/-Amazon%20Web%20Services-05122A?style=flat&logo=amazon)](https://github.com/AndresMorelos?tab=repositories&q=&type=&language=)&nbsp; 
+[![Mongo](https://img.shields.io/badge/-Mongo%20DB-05122A?style=flat&logo=mongodb)](https://github.com/AndresMorelos?tab=repositories&q=&type=&language=)&nbsp; 
 [![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)](https://github.com/AndresMorelos?tab=repositories&q=&type=&language=python)&nbsp; 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)](https://github.com/AndresMorelos?tab=repositories&q=&type=&language=javascript)&nbsp; 
 [![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)](https://github.com/AndresMorelos?tab=repositories&q=&type=&language=typescript)&nbsp; 
