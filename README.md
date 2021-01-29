@@ -53,6 +53,10 @@
 
 <!-- BLOG-POST-LIST: END -->
 
+#### Waka
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### ⚙️ &nbsp; GitHub Analytics
 
 <p align="center">
