@@ -55,6 +55,13 @@
 
 #### Waka
 <!--START_SECTION:waka-->
+```text
+JavaScript   10 hrs 10 mins  ████████████▓░░░░░░░░░░░░   50.53 % 
+TypeScript   5 hrs 55 mins   ███████▒░░░░░░░░░░░░░░░░░   29.43 % 
+YAML         1 hr 45 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+JSON         1 hr 12 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+SQL          51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+```
 <!--END_SECTION:waka-->
 
 ### ⚙️ &nbsp; GitHub Analytics
