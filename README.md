@@ -48,9 +48,7 @@
 ### 📓 &nbsp; Latests Posts
 
 <!-- BLOG-POST-LIST:START -->
-
-* [¿Cómo crear un reenviador de correos sencillo usando AWS SES y Serverless?](https://medium.com/@andresmorelos/c%C3%B3mo-crear-un-reenviador-de-correos-sencillo-usando-aws-ses-y-serverless-bf653385743a?source=rss-189eff4830bb------2)
-
+- [¿Cómo crear un reenviador de correos sencillo usando AWS SES y Serverless?](https://medium.com/@andresmorelos/c%C3%B3mo-crear-un-reenviador-de-correos-sencillo-usando-aws-ses-y-serverless-bf653385743a?source=rss-189eff4830bb------2)
 <!-- BLOG-POST-LIST:END -->
 
 #### Waka
