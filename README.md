@@ -37,11 +37,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#37](https://github.com/FlavioAandres/Lambdas-WP/pull/37) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
-2. ❗️ Opened issue [#36](https://github.com/FlavioAandres/Lambdas-WP/issues/36) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
-3. 🎉 Merged PR [#35](https://github.com/FlavioAandres/Lambdas-WP/pull/35) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
-4. ❗️ Closed issue [#34](https://github.com/FlavioAandres/Lambdas-WP/issues/34) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
-5. 💪 Opened PR [#35](https://github.com/FlavioAandres/Lambdas-WP/pull/35) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
+1. ❗️ Closed issue [#2](https://github.com/coordead/Estadisticas-Savio/issues/2) in [coordead/Estadisticas-Savio](https://github.com/coordead/Estadisticas-Savio)
+2. 💪 Opened PR [#37](https://github.com/FlavioAandres/Lambdas-WP/pull/37) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
+3. ❗️ Opened issue [#36](https://github.com/FlavioAandres/Lambdas-WP/issues/36) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
+4. 🎉 Merged PR [#35](https://github.com/FlavioAandres/Lambdas-WP/pull/35) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
+5. ❗️ Closed issue [#34](https://github.com/FlavioAandres/Lambdas-WP/issues/34) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
 
 <!--END_SECTION:activity-->
 
