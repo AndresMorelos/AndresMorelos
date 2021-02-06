@@ -37,11 +37,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#2](https://github.com/AndresMorelos/open-sauced-goals/issues/2) in [AndresMorelos/open-sauced-goals](https://github.com/AndresMorelos/open-sauced-goals)
-2. ❗️ Opened issue [#1](https://github.com/AndresMorelos/open-sauced-goals/issues/1) in [AndresMorelos/open-sauced-goals](https://github.com/AndresMorelos/open-sauced-goals)
-3. ❗️ Closed issue [#2](https://github.com/coordead/Estadisticas-Savio/issues/2) in [coordead/Estadisticas-Savio](https://github.com/coordead/Estadisticas-Savio)
-4. 💪 Opened PR [#37](https://github.com/FlavioAandres/Lambdas-WP/pull/37) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
-5. ❗️ Opened issue [#36](https://github.com/FlavioAandres/Lambdas-WP/issues/36) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
+1. 🎉 Merged PR [#1](https://github.com/AncaSystems/accountantmodule-desktop/pull/1) in [AncaSystems/accountantmodule-desktop](https://github.com/AncaSystems/accountantmodule-desktop)
+2. 💪 Opened PR [#1](https://github.com/AncaSystems/accountantmodule-desktop/pull/1) in [AncaSystems/accountantmodule-desktop](https://github.com/AncaSystems/accountantmodule-desktop)
+3. ❗️ Opened issue [#2](https://github.com/AndresMorelos/open-sauced-goals/issues/2) in [AndresMorelos/open-sauced-goals](https://github.com/AndresMorelos/open-sauced-goals)
+4. ❗️ Opened issue [#1](https://github.com/AndresMorelos/open-sauced-goals/issues/1) in [AndresMorelos/open-sauced-goals](https://github.com/AndresMorelos/open-sauced-goals)
+5. ❗️ Closed issue [#2](https://github.com/coordead/Estadisticas-Savio/issues/2) in [coordead/Estadisticas-Savio](https://github.com/coordead/Estadisticas-Savio)
 
 <!--END_SECTION:activity-->
 
