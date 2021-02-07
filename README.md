@@ -37,11 +37,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#37](https://github.com/FlavioAandres/Lambdas-WP/pull/37) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
-2. 🎉 Merged PR [#1](https://github.com/AncaSystems/accountantmodule-desktop/pull/1) in [AncaSystems/accountantmodule-desktop](https://github.com/AncaSystems/accountantmodule-desktop)
-3. 💪 Opened PR [#1](https://github.com/AncaSystems/accountantmodule-desktop/pull/1) in [AncaSystems/accountantmodule-desktop](https://github.com/AncaSystems/accountantmodule-desktop)
-4. ❗️ Opened issue [#2](https://github.com/AndresMorelos/open-sauced-goals/issues/2) in [AndresMorelos/open-sauced-goals](https://github.com/AndresMorelos/open-sauced-goals)
-5. ❗️ Opened issue [#1](https://github.com/AndresMorelos/open-sauced-goals/issues/1) in [AndresMorelos/open-sauced-goals](https://github.com/AndresMorelos/open-sauced-goals)
+1. ❗️ Closed issue [#36](https://github.com/FlavioAandres/Lambdas-WP/issues/36) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
+2. 🗣 Commented on [#36](https://github.com/FlavioAandres/Lambdas-WP/issues/36) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
+3. 🎉 Merged PR [#37](https://github.com/FlavioAandres/Lambdas-WP/pull/37) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
+4. 🎉 Merged PR [#1](https://github.com/AncaSystems/accountantmodule-desktop/pull/1) in [AncaSystems/accountantmodule-desktop](https://github.com/AncaSystems/accountantmodule-desktop)
+5. 💪 Opened PR [#1](https://github.com/AncaSystems/accountantmodule-desktop/pull/1) in [AncaSystems/accountantmodule-desktop](https://github.com/AncaSystems/accountantmodule-desktop)
 
 <!--END_SECTION:activity-->
 
