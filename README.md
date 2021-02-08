@@ -37,11 +37,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#36](https://github.com/FlavioAandres/Lambdas-WP/issues/36) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
-2. 🗣 Commented on [#36](https://github.com/FlavioAandres/Lambdas-WP/issues/36) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
-3. 🎉 Merged PR [#37](https://github.com/FlavioAandres/Lambdas-WP/pull/37) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
-4. 🎉 Merged PR [#1](https://github.com/AncaSystems/accountantmodule-desktop/pull/1) in [AncaSystems/accountantmodule-desktop](https://github.com/AncaSystems/accountantmodule-desktop)
-5. 💪 Opened PR [#1](https://github.com/AncaSystems/accountantmodule-desktop/pull/1) in [AncaSystems/accountantmodule-desktop](https://github.com/AncaSystems/accountantmodule-desktop)
+1. 🗣 Commented on [#32](https://github.com/FlavioAandres/Lambdas-WP/issues/32) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
+2. ❗️ Closed issue [#36](https://github.com/FlavioAandres/Lambdas-WP/issues/36) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
+3. 🗣 Commented on [#36](https://github.com/FlavioAandres/Lambdas-WP/issues/36) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
+4. 🎉 Merged PR [#37](https://github.com/FlavioAandres/Lambdas-WP/pull/37) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
+5. 🎉 Merged PR [#1](https://github.com/AncaSystems/accountantmodule-desktop/pull/1) in [AncaSystems/accountantmodule-desktop](https://github.com/AncaSystems/accountantmodule-desktop)
 
 <!--END_SECTION:activity-->
 
