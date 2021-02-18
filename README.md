@@ -37,11 +37,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#21](https://github.com/AndresMorelos/developer-toolbox/issues/21) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
-2. 🗣 Commented on [#32](https://github.com/FlavioAandres/Lambdas-WP/issues/32) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
-3. ❗️ Closed issue [#36](https://github.com/FlavioAandres/Lambdas-WP/issues/36) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
-4. 🗣 Commented on [#36](https://github.com/FlavioAandres/Lambdas-WP/issues/36) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
-5. 🎉 Merged PR [#37](https://github.com/FlavioAandres/Lambdas-WP/pull/37) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
+1. 💪 Opened PR [#29](https://github.com/AndresMorelos/developer-toolbox/pull/29) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
+2. 🗣 Commented on [#21](https://github.com/AndresMorelos/developer-toolbox/issues/21) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
+3. 🗣 Commented on [#32](https://github.com/FlavioAandres/Lambdas-WP/issues/32) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
+4. ❗️ Closed issue [#36](https://github.com/FlavioAandres/Lambdas-WP/issues/36) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
+5. 🗣 Commented on [#36](https://github.com/FlavioAandres/Lambdas-WP/issues/36) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
 
 <!--END_SECTION:activity-->
 
