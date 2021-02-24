@@ -37,11 +37,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#35](https://github.com/AndresMorelos/developer-toolbox/issues/35) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
-2. ❗️ Opened issue [#35](https://github.com/AndresMorelos/developer-toolbox/issues/35) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
-3. ❗️ Opened issue [#34](https://github.com/AndresMorelos/developer-toolbox/issues/34) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
-4. 🎉 Merged PR [#33](https://github.com/AndresMorelos/developer-toolbox/pull/33) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
-5. ❗️ Closed issue [#31](https://github.com/AndresMorelos/developer-toolbox/issues/31) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
+1. 🎉 Merged PR [#36](https://github.com/AndresMorelos/developer-toolbox/pull/36) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
+2. ❗️ Closed issue [#35](https://github.com/AndresMorelos/developer-toolbox/issues/35) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
+3. 💪 Opened PR [#36](https://github.com/AndresMorelos/developer-toolbox/pull/36) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
+4. 🗣 Commented on [#35](https://github.com/AndresMorelos/developer-toolbox/issues/35) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
+5. ❗️ Opened issue [#35](https://github.com/AndresMorelos/developer-toolbox/issues/35) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
 
 <!--END_SECTION:activity-->
 
