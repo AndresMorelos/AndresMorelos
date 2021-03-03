@@ -37,11 +37,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#40](https://github.com/AndresMorelos/developer-toolbox/pull/40) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
-2. ❗️ Opened issue [#43](https://github.com/FlavioAandres/Lambdas-WP/issues/43) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
-3. 🎉 Merged PR [#39](https://github.com/AndresMorelos/developer-toolbox/pull/39) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
-4. ❗️ Closed issue [#38](https://github.com/AndresMorelos/developer-toolbox/issues/38) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
-5. 💪 Opened PR [#39](https://github.com/AndresMorelos/developer-toolbox/pull/39) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
+1. 🎉 Merged PR [#40](https://github.com/AndresMorelos/developer-toolbox/pull/40) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
+2. 💪 Opened PR [#40](https://github.com/AndresMorelos/developer-toolbox/pull/40) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
+3. ❗️ Opened issue [#43](https://github.com/FlavioAandres/Lambdas-WP/issues/43) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
+4. 🎉 Merged PR [#39](https://github.com/AndresMorelos/developer-toolbox/pull/39) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
+5. ❗️ Closed issue [#38](https://github.com/AndresMorelos/developer-toolbox/issues/38) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
 
 <!--END_SECTION:activity-->
 
