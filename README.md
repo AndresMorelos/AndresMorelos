@@ -37,11 +37,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#4](https://github.com/AncaSystems/accountantmodule-desktop/pull/4) in [AncaSystems/accountantmodule-desktop](https://github.com/AncaSystems/accountantmodule-desktop)
-2. 💪 Opened PR [#4](https://github.com/AncaSystems/accountantmodule-desktop/pull/4) in [AncaSystems/accountantmodule-desktop](https://github.com/AncaSystems/accountantmodule-desktop)
-3. 💪 Opened PR [#43](https://github.com/AndresMorelos/developer-toolbox/pull/43) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
-4. 🗣 Commented on [#28](https://github.com/RocktimSaikia/anime-chan/issues/28) in [RocktimSaikia/anime-chan](https://github.com/RocktimSaikia/anime-chan)
-5. ❗️ Opened issue [#42](https://github.com/AndresMorelos/developer-toolbox/issues/42) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
+1. 🎉 Merged PR [#43](https://github.com/AndresMorelos/developer-toolbox/pull/43) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
+2. 🎉 Merged PR [#4](https://github.com/AncaSystems/accountantmodule-desktop/pull/4) in [AncaSystems/accountantmodule-desktop](https://github.com/AncaSystems/accountantmodule-desktop)
+3. 💪 Opened PR [#4](https://github.com/AncaSystems/accountantmodule-desktop/pull/4) in [AncaSystems/accountantmodule-desktop](https://github.com/AncaSystems/accountantmodule-desktop)
+4. 💪 Opened PR [#43](https://github.com/AndresMorelos/developer-toolbox/pull/43) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
+5. 🗣 Commented on [#28](https://github.com/RocktimSaikia/anime-chan/issues/28) in [RocktimSaikia/anime-chan](https://github.com/RocktimSaikia/anime-chan)
 
 <!--END_SECTION:activity-->
 
