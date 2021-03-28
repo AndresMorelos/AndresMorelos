@@ -37,11 +37,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#7](https://github.com/AncaSystems/accountantmodule-desktop/pull/7) in [AncaSystems/accountantmodule-desktop](https://github.com/AncaSystems/accountantmodule-desktop)
-2. 💪 Opened PR [#7](https://github.com/AncaSystems/accountantmodule-desktop/pull/7) in [AncaSystems/accountantmodule-desktop](https://github.com/AncaSystems/accountantmodule-desktop)
-3. 🎉 Merged PR [#6](https://github.com/AncaSystems/accountantmodule-desktop/pull/6) in [AncaSystems/accountantmodule-desktop](https://github.com/AncaSystems/accountantmodule-desktop)
-4. 💪 Opened PR [#6](https://github.com/AncaSystems/accountantmodule-desktop/pull/6) in [AncaSystems/accountantmodule-desktop](https://github.com/AncaSystems/accountantmodule-desktop)
-5. 🗣 Commented on [#36](https://github.com/FlavioAandres/daily-cli/issues/36) in [FlavioAandres/daily-cli](https://github.com/FlavioAandres/daily-cli)
+1. 🎉 Merged PR [#8](https://github.com/AncaSystems/accountantmodule-desktop/pull/8) in [AncaSystems/accountantmodule-desktop](https://github.com/AncaSystems/accountantmodule-desktop)
+2. 💪 Opened PR [#8](https://github.com/AncaSystems/accountantmodule-desktop/pull/8) in [AncaSystems/accountantmodule-desktop](https://github.com/AncaSystems/accountantmodule-desktop)
+3. 🎉 Merged PR [#7](https://github.com/AncaSystems/accountantmodule-desktop/pull/7) in [AncaSystems/accountantmodule-desktop](https://github.com/AncaSystems/accountantmodule-desktop)
+4. 💪 Opened PR [#7](https://github.com/AncaSystems/accountantmodule-desktop/pull/7) in [AncaSystems/accountantmodule-desktop](https://github.com/AncaSystems/accountantmodule-desktop)
+5. 🎉 Merged PR [#6](https://github.com/AncaSystems/accountantmodule-desktop/pull/6) in [AncaSystems/accountantmodule-desktop](https://github.com/AncaSystems/accountantmodule-desktop)
 
 <!--END_SECTION:activity-->
 
