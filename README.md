@@ -37,11 +37,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#51](https://github.com/AndresMorelos/developer-toolbox/pull/51) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
-2. 💪 Opened PR [#50](https://github.com/AndresMorelos/developer-toolbox/pull/50) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
-3. 🗣 Commented on [#42](https://github.com/AndresMorelos/developer-toolbox/issues/42) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
-4. 🎉 Merged PR [#11](https://github.com/AncaSystems/accountantmodule-desktop/pull/11) in [AncaSystems/accountantmodule-desktop](https://github.com/AncaSystems/accountantmodule-desktop)
-5. 💪 Opened PR [#11](https://github.com/AncaSystems/accountantmodule-desktop/pull/11) in [AncaSystems/accountantmodule-desktop](https://github.com/AncaSystems/accountantmodule-desktop)
+1. ❗️ Closed issue [#53](https://github.com/AndresMorelos/developer-toolbox/issues/53) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
+2. 🎉 Merged PR [#54](https://github.com/AndresMorelos/developer-toolbox/pull/54) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
+3. 💪 Opened PR [#54](https://github.com/AndresMorelos/developer-toolbox/pull/54) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
+4. ❗️ Opened issue [#53](https://github.com/AndresMorelos/developer-toolbox/issues/53) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
+5. ❗️ Opened issue [#52](https://github.com/AndresMorelos/developer-toolbox/issues/52) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
 
 <!--END_SECTION:activity-->
 
