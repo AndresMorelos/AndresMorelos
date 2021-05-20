@@ -54,8 +54,9 @@
 #### Waka
 <!--START_SECTION:waka-->
 ```text
-JavaScript   1 hr 3 mins     ███████████████▓░░░░░░░░░   62.98 % 
-SQL          35 mins         ████████▓░░░░░░░░░░░░░░░░   34.97 % 
+JavaScript   1 hr 3 mins     ██████████████▓░░░░░░░░░░   58.24 % 
+SQL          41 mins         █████████▓░░░░░░░░░░░░░░░   38.68 % 
+Other        2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
 ```
 <!--END_SECTION:waka-->
 
