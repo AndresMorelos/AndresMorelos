@@ -38,10 +38,10 @@
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#29](https://github.com/FlavioAandres/Lambdas-WP/issues/29) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
-2. 🎉 Merged PR [#64](https://github.com/AndresMorelos/developer-toolbox/pull/64) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
-3. 🎉 Merged PR [#20](https://github.com/AncaSystems/accountantmodule-desktop/pull/20) in [AncaSystems/accountantmodule-desktop](https://github.com/AncaSystems/accountantmodule-desktop)
-4. 💪 Opened PR [#20](https://github.com/AncaSystems/accountantmodule-desktop/pull/20) in [AncaSystems/accountantmodule-desktop](https://github.com/AncaSystems/accountantmodule-desktop)
-5. 🎉 Merged PR [#63](https://github.com/AndresMorelos/developer-toolbox/pull/63) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
+2. 🗣 Commented on [#29](https://github.com/FlavioAandres/Lambdas-WP/issues/29) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
+3. 🎉 Merged PR [#64](https://github.com/AndresMorelos/developer-toolbox/pull/64) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
+4. 🎉 Merged PR [#20](https://github.com/AncaSystems/accountantmodule-desktop/pull/20) in [AncaSystems/accountantmodule-desktop](https://github.com/AncaSystems/accountantmodule-desktop)
+5. 💪 Opened PR [#20](https://github.com/AncaSystems/accountantmodule-desktop/pull/20) in [AncaSystems/accountantmodule-desktop](https://github.com/AncaSystems/accountantmodule-desktop)
 
 <!--END_SECTION:activity-->
 
