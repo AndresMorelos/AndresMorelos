@@ -40,8 +40,8 @@
 1. 🗣 Commented on [#51](https://github.com/FlavioAandres/Lambdas-WP/issues/51) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
 2. 🗣 Commented on [#51](https://github.com/FlavioAandres/Lambdas-WP/issues/51) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
 3. 🗣 Commented on [#51](https://github.com/FlavioAandres/Lambdas-WP/issues/51) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
-4. 🗣 Commented on [#50](https://github.com/FlavioAandres/Lambdas-WP/issues/50) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
-5. ❗️ Opened issue [#54](https://github.com/FlavioAandres/Lambdas-WP/issues/54) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
+4. 🗣 Commented on [#51](https://github.com/FlavioAandres/Lambdas-WP/issues/51) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
+5. 🗣 Commented on [#50](https://github.com/FlavioAandres/Lambdas-WP/issues/50) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
 
 <!--END_SECTION:activity-->
 
