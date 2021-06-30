@@ -37,11 +37,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#68](https://github.com/AndresMorelos/developer-toolbox/pull/68) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
-2. ❗️ Opened issue [#60](https://github.com/FlavioAandres/Lambdas-WP/issues/60) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
-3. 🗣 Commented on [#28](https://github.com/FlavioAandres/Lambdas-WP/issues/28) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
-4. 🗣 Commented on [#2](https://github.com/AndresMorelos/ssl-information/issues/2) in [AndresMorelos/ssl-information](https://github.com/AndresMorelos/ssl-information)
-5. ❌ Reopened PR [#50](https://github.com/AndresMorelos/developer-toolbox/pull/50) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
+1. 🗣 Commented on [#2](https://github.com/AndresMorelos/ssl-information/issues/2) in [AndresMorelos/ssl-information](https://github.com/AndresMorelos/ssl-information)
+2. 🎉 Merged PR [#68](https://github.com/AndresMorelos/developer-toolbox/pull/68) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
+3. ❗️ Opened issue [#60](https://github.com/FlavioAandres/Lambdas-WP/issues/60) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
+4. 🗣 Commented on [#28](https://github.com/FlavioAandres/Lambdas-WP/issues/28) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
+5. 🗣 Commented on [#2](https://github.com/AndresMorelos/ssl-information/issues/2) in [AndresMorelos/ssl-information](https://github.com/AndresMorelos/ssl-information)
 
 <!--END_SECTION:activity-->
 
