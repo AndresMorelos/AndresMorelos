@@ -37,11 +37,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#28](https://github.com/FlavioAandres/Lambdas-WP/pull/28) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
-2. 🗣 Commented on [#28](https://github.com/FlavioAandres/Lambdas-WP/issues/28) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
-3. ❗️ Opened issue [#70](https://github.com/FlavioAandres/Lambdas-WP/issues/70) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
-4. ❗️ Opened issue [#69](https://github.com/FlavioAandres/Lambdas-WP/issues/69) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
-5. 🎉 Merged PR [#68](https://github.com/FlavioAandres/Lambdas-WP/pull/68) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
+1. 🗣 Commented on [#70](https://github.com/FlavioAandres/Lambdas-WP/issues/70) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
+2. 🎉 Merged PR [#55](https://github.com/FlavioAandres/Lambdas-WP/pull/55) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
+3. ❗️ Closed issue [#50](https://github.com/FlavioAandres/Lambdas-WP/issues/50) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
+4. 🗣 Commented on [#55](https://github.com/FlavioAandres/Lambdas-WP/issues/55) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
+5. 🎉 Merged PR [#28](https://github.com/FlavioAandres/Lambdas-WP/pull/28) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
 
 <!--END_SECTION:activity-->
 
