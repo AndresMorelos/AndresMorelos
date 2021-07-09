@@ -37,11 +37,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2](https://github.com/AndresMorelos/ssl-information/issues/2) in [AndresMorelos/ssl-information](https://github.com/AndresMorelos/ssl-information)
-2. ❗️ Closed issue [#69](https://github.com/FlavioAandres/Lambdas-WP/issues/69) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
-3. 🗣 Commented on [#69](https://github.com/FlavioAandres/Lambdas-WP/issues/69) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
-4. ❗️ Closed issue [#76](https://github.com/FlavioAandres/Lambdas-WP/issues/76) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
-5. 🗣 Commented on [#76](https://github.com/FlavioAandres/Lambdas-WP/issues/76) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
+1. ❗️ Opened issue [#77](https://github.com/FlavioAandres/Lambdas-WP/issues/77) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
+2. ❗️ Closed issue [#2](https://github.com/AndresMorelos/ssl-information/issues/2) in [AndresMorelos/ssl-information](https://github.com/AndresMorelos/ssl-information)
+3. 🗣 Commented on [#2](https://github.com/AndresMorelos/ssl-information/issues/2) in [AndresMorelos/ssl-information](https://github.com/AndresMorelos/ssl-information)
+4. ❗️ Closed issue [#69](https://github.com/FlavioAandres/Lambdas-WP/issues/69) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
+5. 🗣 Commented on [#69](https://github.com/FlavioAandres/Lambdas-WP/issues/69) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
 
 <!--END_SECTION:activity-->
 
