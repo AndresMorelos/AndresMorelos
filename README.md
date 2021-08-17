@@ -37,11 +37,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#42](https://github.com/AndresMorelos/developer-toolbox/issues/42) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
-2. 🎉 Merged PR [#50](https://github.com/AndresMorelos/developer-toolbox/pull/50) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
-3. 🎉 Merged PR [#77](https://github.com/AndresMorelos/developer-toolbox/pull/77) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
-4. 🎉 Merged PR [#2](https://github.com/AncaSystems/Financies/pull/2) in [AncaSystems/Financies](https://github.com/AncaSystems/Financies)
-5. 💪 Opened PR [#2](https://github.com/AncaSystems/Lambdas-WP/pull/2) in [AncaSystems/Lambdas-WP](https://github.com/AncaSystems/Lambdas-WP)
+1. 🗣 Commented on [#78](https://github.com/AndresMorelos/developer-toolbox/issues/78) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
+2. ❗️ Closed issue [#42](https://github.com/AndresMorelos/developer-toolbox/issues/42) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
+3. 🎉 Merged PR [#50](https://github.com/AndresMorelos/developer-toolbox/pull/50) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
+4. 🎉 Merged PR [#77](https://github.com/AndresMorelos/developer-toolbox/pull/77) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
+5. 🎉 Merged PR [#2](https://github.com/AncaSystems/Financies/pull/2) in [AncaSystems/Financies](https://github.com/AncaSystems/Financies)
 
 <!--END_SECTION:activity-->
 
