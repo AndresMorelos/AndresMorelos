@@ -37,11 +37,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#80](https://github.com/AndresMorelos/developer-toolbox/pull/80) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
-2. ❗️ Opened issue [#79](https://github.com/AndresMorelos/developer-toolbox/issues/79) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
-3. 🗣 Commented on [#78](https://github.com/AndresMorelos/developer-toolbox/issues/78) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
-4. ❗️ Closed issue [#42](https://github.com/AndresMorelos/developer-toolbox/issues/42) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
-5. 🎉 Merged PR [#50](https://github.com/AndresMorelos/developer-toolbox/pull/50) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
+1. 🎉 Merged PR [#3](https://github.com/AncaSystems/Financies/pull/3) in [AncaSystems/Financies](https://github.com/AncaSystems/Financies)
+2. 💪 Opened PR [#3](https://github.com/AncaSystems/Financies/pull/3) in [AncaSystems/Financies](https://github.com/AncaSystems/Financies)
+3. 🎉 Merged PR [#81](https://github.com/FlavioAandres/Lambdas-WP/pull/81) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
+4. 🎉 Merged PR [#79](https://github.com/FlavioAandres/Lambdas-WP/pull/79) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
+5. ❗️ Closed issue [#72](https://github.com/FlavioAandres/Lambdas-WP/issues/72) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
 
 <!--END_SECTION:activity-->
 
