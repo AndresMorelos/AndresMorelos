@@ -37,11 +37,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#6](https://github.com/AncaSystems/Financies/issues/6) in [AncaSystems/Financies](https://github.com/AncaSystems/Financies)
-2. 🎉 Merged PR [#5](https://github.com/AncaSystems/Financies/pull/5) in [AncaSystems/Financies](https://github.com/AncaSystems/Financies)
-3. 💪 Opened PR [#5](https://github.com/AncaSystems/Financies/pull/5) in [AncaSystems/Financies](https://github.com/AncaSystems/Financies)
-4. ❌ Closed PR [#83](https://github.com/FlavioAandres/Lambdas-WP/pull/83) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
-5. 💪 Opened PR [#83](https://github.com/FlavioAandres/Lambdas-WP/pull/83) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
+1. 🎉 Merged PR [#7](https://github.com/AncaSystems/Financies/pull/7) in [AncaSystems/Financies](https://github.com/AncaSystems/Financies)
+2. 💪 Opened PR [#7](https://github.com/AncaSystems/Financies/pull/7) in [AncaSystems/Financies](https://github.com/AncaSystems/Financies)
+3. ❌ Closed PR [#84](https://github.com/FlavioAandres/Lambdas-WP/pull/84) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
+4. 💪 Opened PR [#84](https://github.com/FlavioAandres/Lambdas-WP/pull/84) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
+5. ❗️ Opened issue [#6](https://github.com/AncaSystems/Financies/issues/6) in [AncaSystems/Financies](https://github.com/AncaSystems/Financies)
 
 <!--END_SECTION:activity-->
 
