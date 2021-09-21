@@ -37,11 +37,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#9](https://github.com/AncaSystems/Financies/issues/9) in [AncaSystems/Financies](https://github.com/AncaSystems/Financies)
-2. ❗️ Opened issue [#8](https://github.com/AncaSystems/Financies/issues/8) in [AncaSystems/Financies](https://github.com/AncaSystems/Financies)
-3. 🎉 Merged PR [#7](https://github.com/AncaSystems/Financies/pull/7) in [AncaSystems/Financies](https://github.com/AncaSystems/Financies)
-4. 💪 Opened PR [#7](https://github.com/AncaSystems/Financies/pull/7) in [AncaSystems/Financies](https://github.com/AncaSystems/Financies)
-5. ❌ Closed PR [#84](https://github.com/FlavioAandres/Lambdas-WP/pull/84) in [FlavioAandres/Lambdas-WP](https://github.com/FlavioAandres/Lambdas-WP)
+1. 🎉 Merged PR [#10](https://github.com/AncaSystems/Financies/pull/10) in [AncaSystems/Financies](https://github.com/AncaSystems/Financies)
+2. ❗️ Closed issue [#8](https://github.com/AncaSystems/Financies/issues/8) in [AncaSystems/Financies](https://github.com/AncaSystems/Financies)
+3. 💪 Opened PR [#10](https://github.com/AncaSystems/Financies/pull/10) in [AncaSystems/Financies](https://github.com/AncaSystems/Financies)
+4. ❗️ Opened issue [#9](https://github.com/AncaSystems/Financies/issues/9) in [AncaSystems/Financies](https://github.com/AncaSystems/Financies)
+5. ❗️ Opened issue [#8](https://github.com/AncaSystems/Financies/issues/8) in [AncaSystems/Financies](https://github.com/AncaSystems/Financies)
 
 <!--END_SECTION:activity-->
 
