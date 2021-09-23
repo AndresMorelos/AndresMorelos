@@ -37,11 +37,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#6](https://github.com/AncaSystems/Financies/issues/6) in [AncaSystems/Financies](https://github.com/AncaSystems/Financies)
-2. 🎉 Merged PR [#10](https://github.com/AncaSystems/Financies/pull/10) in [AncaSystems/Financies](https://github.com/AncaSystems/Financies)
-3. ❗️ Closed issue [#8](https://github.com/AncaSystems/Financies/issues/8) in [AncaSystems/Financies](https://github.com/AncaSystems/Financies)
-4. 💪 Opened PR [#10](https://github.com/AncaSystems/Financies/pull/10) in [AncaSystems/Financies](https://github.com/AncaSystems/Financies)
-5. ❗️ Opened issue [#9](https://github.com/AncaSystems/Financies/issues/9) in [AncaSystems/Financies](https://github.com/AncaSystems/Financies)
+1. ❗️ Opened issue [#12](https://github.com/AncaSystems/Financies/issues/12) in [AncaSystems/Financies](https://github.com/AncaSystems/Financies)
+2. 🎉 Merged PR [#11](https://github.com/AncaSystems/Financies/pull/11) in [AncaSystems/Financies](https://github.com/AncaSystems/Financies)
+3. ❗️ Closed issue [#9](https://github.com/AncaSystems/Financies/issues/9) in [AncaSystems/Financies](https://github.com/AncaSystems/Financies)
+4. 💪 Opened PR [#11](https://github.com/AncaSystems/Financies/pull/11) in [AncaSystems/Financies](https://github.com/AncaSystems/Financies)
+5. ❗️ Closed issue [#6](https://github.com/AncaSystems/Financies/issues/6) in [AncaSystems/Financies](https://github.com/AncaSystems/Financies)
 
 <!--END_SECTION:activity-->
 
