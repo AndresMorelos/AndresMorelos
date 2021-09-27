@@ -37,11 +37,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#86](https://github.com/AndresMorelos/developer-toolbox/pull/86) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
-2. 🎉 Merged PR [#85](https://github.com/AndresMorelos/developer-toolbox/pull/85) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
-3. ❗️ Opened issue [#12](https://github.com/AncaSystems/Financies/issues/12) in [AncaSystems/Financies](https://github.com/AncaSystems/Financies)
-4. 🎉 Merged PR [#11](https://github.com/AncaSystems/Financies/pull/11) in [AncaSystems/Financies](https://github.com/AncaSystems/Financies)
-5. ❗️ Closed issue [#9](https://github.com/AncaSystems/Financies/issues/9) in [AncaSystems/Financies](https://github.com/AncaSystems/Financies)
+1. 🎉 Merged PR [#13](https://github.com/AncaSystems/Financies/pull/13) in [AncaSystems/Financies](https://github.com/AncaSystems/Financies)
+2. 💪 Opened PR [#13](https://github.com/AncaSystems/Financies/pull/13) in [AncaSystems/Financies](https://github.com/AncaSystems/Financies)
+3. 🎉 Merged PR [#86](https://github.com/AndresMorelos/developer-toolbox/pull/86) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
+4. 🎉 Merged PR [#85](https://github.com/AndresMorelos/developer-toolbox/pull/85) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
+5. ❗️ Opened issue [#12](https://github.com/AncaSystems/Financies/issues/12) in [AncaSystems/Financies](https://github.com/AncaSystems/Financies)
 
 <!--END_SECTION:activity-->
 
