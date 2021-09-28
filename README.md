@@ -77,6 +77,4 @@ YAML         1 min           ░░░░░░░░░░░░░░░░░
 <a href="https://andresmorelos.dev"><img src="https://img.shields.io/badge/-andresmorelos.dev-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/andresmorelos"><img src="https://img.shields.io/badge/-Andres%20Morelos-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:andresmorelos123@gmail.com"><img src="https://img.shields.io/badge/-andresmorelos123@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/andresmorelos"><img src="https://img.shields.io/badge/-@andresmorelos_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/andress50"><img src="https://img.shields.io/badge/-@Andress50-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
