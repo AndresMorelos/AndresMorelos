@@ -37,11 +37,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#19](https://github.com/AncaSystems/Financies/pull/19) in [AncaSystems/Financies](https://github.com/AncaSystems/Financies)
-2. 💪 Opened PR [#19](https://github.com/AncaSystems/Financies/pull/19) in [AncaSystems/Financies](https://github.com/AncaSystems/Financies)
-3. ❌ Closed PR [#87](https://github.com/FlavioAandres/FinancesApp/pull/87) in [FlavioAandres/FinancesApp](https://github.com/FlavioAandres/FinancesApp)
-4. 💪 Opened PR [#87](https://github.com/FlavioAandres/FinancesApp/pull/87) in [FlavioAandres/FinancesApp](https://github.com/FlavioAandres/FinancesApp)
-5. ❗️ Closed issue [#87](https://github.com/AndresMorelos/developer-toolbox/issues/87) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
+1. 🎉 Merged PR [#20](https://github.com/AncaSystems/Financies/pull/20) in [AncaSystems/Financies](https://github.com/AncaSystems/Financies)
+2. 💪 Opened PR [#20](https://github.com/AncaSystems/Financies/pull/20) in [AncaSystems/Financies](https://github.com/AncaSystems/Financies)
+3. 🎉 Merged PR [#19](https://github.com/AncaSystems/Financies/pull/19) in [AncaSystems/Financies](https://github.com/AncaSystems/Financies)
+4. 💪 Opened PR [#19](https://github.com/AncaSystems/Financies/pull/19) in [AncaSystems/Financies](https://github.com/AncaSystems/Financies)
+5. ❌ Closed PR [#87](https://github.com/FlavioAandres/FinancesApp/pull/87) in [FlavioAandres/FinancesApp](https://github.com/FlavioAandres/FinancesApp)
 
 <!--END_SECTION:activity-->
 
