@@ -74,7 +74,7 @@ JSON         50 mins         █▒░░░░░░░░░░░░░░░
 ### 🤝🏻 &nbsp; Connect with Me
 
 <p align="center">
-<a href="https://andresmorelos.dev"><img src="https://img.shields.io/badge/-andresmorelos.dev-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://andresmorelos.me"><img src="https://img.shields.io/badge/-andresmorelos.me-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/andresmorelos"><img src="https://img.shields.io/badge/-Andres%20Morelos-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:andresmorelos123@gmail.com"><img src="https://img.shields.io/badge/-andresmorelos123@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
