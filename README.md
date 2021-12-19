@@ -37,11 +37,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#95](https://github.com/AndresMorelos/developer-toolbox/issues/95) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
-2. 🎉 Merged PR [#21](https://github.com/AncaSystems/Financies/pull/21) in [AncaSystems/Financies](https://github.com/AncaSystems/Financies)
-3. ❗️ Closed issue [#18](https://github.com/AncaSystems/Financies/issues/18) in [AncaSystems/Financies](https://github.com/AncaSystems/Financies)
-4. 💪 Opened PR [#21](https://github.com/AncaSystems/Financies/pull/21) in [AncaSystems/Financies](https://github.com/AncaSystems/Financies)
-5. 🎉 Merged PR [#92](https://github.com/AndresMorelos/developer-toolbox/pull/92) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
+1. ❗️ Opened issue [#380](https://github.com/hql287/Manta/issues/380) in [hql287/Manta](https://github.com/hql287/Manta)
+2. ❗️ Opened issue [#1](https://github.com/AndresMorelos/InvoncifyReleases/issues/1) in [AndresMorelos/InvoncifyReleases](https://github.com/AndresMorelos/InvoncifyReleases)
+3. 🗣 Commented on [#95](https://github.com/AndresMorelos/developer-toolbox/issues/95) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
+4. 🎉 Merged PR [#21](https://github.com/AncaSystems/Financies/pull/21) in [AncaSystems/Financies](https://github.com/AncaSystems/Financies)
+5. ❗️ Closed issue [#18](https://github.com/AncaSystems/Financies/issues/18) in [AncaSystems/Financies](https://github.com/AncaSystems/Financies)
 
 <!--END_SECTION:activity-->
 
