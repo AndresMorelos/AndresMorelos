@@ -54,6 +54,8 @@
 #### Waka
 <!--START_SECTION:waka-->
 ```text
+Total: 5 hrs 48 mins
+
 JavaScript   4 hrs 1 min     █████████████████▒░░░░░░░   69.28 % 
 C#           32 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
 JSON         30 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
