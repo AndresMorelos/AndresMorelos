@@ -54,8 +54,6 @@
 #### Waka
 <!--START_SECTION:waka-->
 ```text
-Total: 11 hrs 15 mins
-
 JavaScript   9 hrs 13 mins   ████████████████████░░░░░   79.87 % 
 TypeScript   24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
 JSON         24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
