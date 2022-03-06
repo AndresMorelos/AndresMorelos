@@ -38,10 +38,10 @@
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#19](https://github.com/AndresMorelos/Invoncify/issues/19) in [AndresMorelos/Invoncify](https://github.com/AndresMorelos/Invoncify)
-2. 🎉 Merged PR [#118](https://github.com/AndresMorelos/developer-toolbox/pull/118) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
-3. 🎉 Merged PR [#117](https://github.com/AndresMorelos/developer-toolbox/pull/117) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
-4. 🎉 Merged PR [#116](https://github.com/AndresMorelos/developer-toolbox/pull/116) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
-5. 🗣 Commented on [#18](https://github.com/AndresMorelos/Invoncify/issues/18) in [AndresMorelos/Invoncify](https://github.com/AndresMorelos/Invoncify)
+2. 💪 Opened PR [#20](https://github.com/AndresMorelos/Invoncify/pull/20) in [AndresMorelos/Invoncify](https://github.com/AndresMorelos/Invoncify)
+3. 🗣 Commented on [#19](https://github.com/AndresMorelos/Invoncify/issues/19) in [AndresMorelos/Invoncify](https://github.com/AndresMorelos/Invoncify)
+4. 🎉 Merged PR [#118](https://github.com/AndresMorelos/developer-toolbox/pull/118) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
+5. 🎉 Merged PR [#117](https://github.com/AndresMorelos/developer-toolbox/pull/117) in [AndresMorelos/developer-toolbox](https://github.com/AndresMorelos/developer-toolbox)
 
 <!--END_SECTION:activity-->
 
