@@ -37,11 +37,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#25](https://github.com/AndresMorelos/Invoncify/pull/25) in [AndresMorelos/Invoncify](https://github.com/AndresMorelos/Invoncify)
-2. 💪 Opened PR [#25](https://github.com/AndresMorelos/Invoncify/pull/25) in [AndresMorelos/Invoncify](https://github.com/AndresMorelos/Invoncify)
-3. 🎉 Merged PR [#20](https://github.com/AndresMorelos/Invoncify/pull/20) in [AndresMorelos/Invoncify](https://github.com/AndresMorelos/Invoncify)
-4. ❗️ Closed issue [#19](https://github.com/AndresMorelos/Invoncify/issues/19) in [AndresMorelos/Invoncify](https://github.com/AndresMorelos/Invoncify)
-5. 🗣 Commented on [#19](https://github.com/AndresMorelos/Invoncify/issues/19) in [AndresMorelos/Invoncify](https://github.com/AndresMorelos/Invoncify)
+1. 🎉 Merged PR [#26](https://github.com/AndresMorelos/Invoncify/pull/26) in [AndresMorelos/Invoncify](https://github.com/AndresMorelos/Invoncify)
+2. 💪 Opened PR [#26](https://github.com/AndresMorelos/Invoncify/pull/26) in [AndresMorelos/Invoncify](https://github.com/AndresMorelos/Invoncify)
+3. 🎉 Merged PR [#25](https://github.com/AndresMorelos/Invoncify/pull/25) in [AndresMorelos/Invoncify](https://github.com/AndresMorelos/Invoncify)
+4. 💪 Opened PR [#25](https://github.com/AndresMorelos/Invoncify/pull/25) in [AndresMorelos/Invoncify](https://github.com/AndresMorelos/Invoncify)
+5. 🎉 Merged PR [#20](https://github.com/AndresMorelos/Invoncify/pull/20) in [AndresMorelos/Invoncify](https://github.com/AndresMorelos/Invoncify)
 
 <!--END_SECTION:activity-->
 
