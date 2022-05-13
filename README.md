@@ -37,11 +37,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#70](https://github.com/AndresMorelos/Invoncify/issues/70) in [AndresMorelos/Invoncify](https://github.com/AndresMorelos/Invoncify)
-2. 🗣 Commented on [#70](https://github.com/AndresMorelos/Invoncify/issues/70) in [AndresMorelos/Invoncify](https://github.com/AndresMorelos/Invoncify)
-3. 🎉 Merged PR [#71](https://github.com/AndresMorelos/Invoncify/pull/71) in [AndresMorelos/Invoncify](https://github.com/AndresMorelos/Invoncify)
-4. 💪 Opened PR [#71](https://github.com/AndresMorelos/Invoncify/pull/71) in [AndresMorelos/Invoncify](https://github.com/AndresMorelos/Invoncify)
-5. ❗️ Opened issue [#70](https://github.com/AndresMorelos/Invoncify/issues/70) in [AndresMorelos/Invoncify](https://github.com/AndresMorelos/Invoncify)
+1. 🎉 Merged PR [#72](https://github.com/AndresMorelos/Invoncify/pull/72) in [AndresMorelos/Invoncify](https://github.com/AndresMorelos/Invoncify)
+2. 💪 Opened PR [#72](https://github.com/AndresMorelos/Invoncify/pull/72) in [AndresMorelos/Invoncify](https://github.com/AndresMorelos/Invoncify)
+3. 💪 Opened PR [#60449](https://github.com/microsoft/winget-pkgs/pull/60449) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+4. ❗️ Closed issue [#70](https://github.com/AndresMorelos/Invoncify/issues/70) in [AndresMorelos/Invoncify](https://github.com/AndresMorelos/Invoncify)
+5. 🗣 Commented on [#70](https://github.com/AndresMorelos/Invoncify/issues/70) in [AndresMorelos/Invoncify](https://github.com/AndresMorelos/Invoncify)
 
 <!--END_SECTION:activity-->
 
