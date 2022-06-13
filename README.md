@@ -39,9 +39,9 @@
 
 1. 🗣 Commented on [#81](https://github.com/AndresMorelos/Invoncify/issues/81) in [AndresMorelos/Invoncify](https://github.com/AndresMorelos/Invoncify)
 2. 🗣 Commented on [#81](https://github.com/AndresMorelos/Invoncify/issues/81) in [AndresMorelos/Invoncify](https://github.com/AndresMorelos/Invoncify)
-3. 💪 Opened PR [#63065](https://github.com/microsoft/winget-pkgs/pull/63065) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-4. 🎉 Merged PR [#84](https://github.com/AndresMorelos/Invoncify/pull/84) in [AndresMorelos/Invoncify](https://github.com/AndresMorelos/Invoncify)
-5. 💪 Opened PR [#84](https://github.com/AndresMorelos/Invoncify/pull/84) in [AndresMorelos/Invoncify](https://github.com/AndresMorelos/Invoncify)
+3. 🗣 Commented on [#81](https://github.com/AndresMorelos/Invoncify/issues/81) in [AndresMorelos/Invoncify](https://github.com/AndresMorelos/Invoncify)
+4. 💪 Opened PR [#63065](https://github.com/microsoft/winget-pkgs/pull/63065) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+5. 🎉 Merged PR [#84](https://github.com/AndresMorelos/Invoncify/pull/84) in [AndresMorelos/Invoncify](https://github.com/AndresMorelos/Invoncify)
 
 <!--END_SECTION:activity-->
 
