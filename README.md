@@ -37,11 +37,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#117](https://github.com/AndresMorelos/Invoncify/issues/117) in [AndresMorelos/Invoncify](https://github.com/AndresMorelos/Invoncify)
-2. 🗣 Commented on [#117](https://github.com/AndresMorelos/Invoncify/issues/117) in [AndresMorelos/Invoncify](https://github.com/AndresMorelos/Invoncify)
-3. 🗣 Commented on [#1804](https://github.com/raycast/extensions/issues/1804) in [raycast/extensions](https://github.com/raycast/extensions)
-4. 🗣 Commented on [#106](https://github.com/AndresMorelos/Invoncify/issues/106) in [AndresMorelos/Invoncify](https://github.com/AndresMorelos/Invoncify)
-5. 💪 Opened PR [#64490](https://github.com/microsoft/winget-pkgs/pull/64490) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+1. ❗️ Closed issue [#106](https://github.com/AndresMorelos/Invoncify/issues/106) in [AndresMorelos/Invoncify](https://github.com/AndresMorelos/Invoncify)
+2. ❗️ Closed issue [#117](https://github.com/AndresMorelos/Invoncify/issues/117) in [AndresMorelos/Invoncify](https://github.com/AndresMorelos/Invoncify)
+3. 🎉 Merged PR [#118](https://github.com/AndresMorelos/Invoncify/pull/118) in [AndresMorelos/Invoncify](https://github.com/AndresMorelos/Invoncify)
+4. 🎉 Merged PR [#120](https://github.com/AndresMorelos/Invoncify/pull/120) in [AndresMorelos/Invoncify](https://github.com/AndresMorelos/Invoncify)
+5. 💪 Opened PR [#120](https://github.com/AndresMorelos/Invoncify/pull/120) in [AndresMorelos/Invoncify](https://github.com/AndresMorelos/Invoncify)
 
 <!--END_SECTION:activity-->
 
