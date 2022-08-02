@@ -58,9 +58,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   53 mins         ████████▒░░░░░░░░░░░░░░░░   33.57 %
-TypeScript   41 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.18 %
-Other        24 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.02 %
+JavaScript   53 mins         ███████▓░░░░░░░░░░░░░░░░░   30.53 %
+TypeScript   41 mins         ██████░░░░░░░░░░░░░░░░░░░   23.81 %
+Other        40 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.73 %
 ```
 
 <!--END_SECTION:waka-->
