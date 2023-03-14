@@ -37,11 +37,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#5027](https://github.com/raycast/extensions/issues/5027) in [raycast/extensions](https://github.com/raycast/extensions)
-2. 💪 Opened PR [#4728](https://github.com/raycast/extensions/pull/4728) in [raycast/extensions](https://github.com/raycast/extensions)
-3. 🎉 Merged PR [#129](https://github.com/AndresMorelos/Invoncify/pull/129) in [AndresMorelos/Invoncify](https://github.com/AndresMorelos/Invoncify)
-4. 💪 Opened PR [#129](https://github.com/AndresMorelos/Invoncify/pull/129) in [AndresMorelos/Invoncify](https://github.com/AndresMorelos/Invoncify)
-5. ❗️ Closed issue [#127](https://github.com/AndresMorelos/Invoncify/issues/127) in [AndresMorelos/Invoncify](https://github.com/AndresMorelos/Invoncify)
+1. 💪 Opened PR [#5338](https://github.com/raycast/extensions/pull/5338) in [raycast/extensions](https://github.com/raycast/extensions)
+2. 🗣 Commented on [#5027](https://github.com/raycast/extensions/issues/5027) in [raycast/extensions](https://github.com/raycast/extensions)
+3. 💪 Opened PR [#4728](https://github.com/raycast/extensions/pull/4728) in [raycast/extensions](https://github.com/raycast/extensions)
+4. 🎉 Merged PR [#129](https://github.com/AndresMorelos/Invoncify/pull/129) in [AndresMorelos/Invoncify](https://github.com/AndresMorelos/Invoncify)
+5. 💪 Opened PR [#129](https://github.com/AndresMorelos/Invoncify/pull/129) in [AndresMorelos/Invoncify](https://github.com/AndresMorelos/Invoncify)
 
 <!--END_SECTION:activity-->
 
