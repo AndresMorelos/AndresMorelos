@@ -1,16 +1,5 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Andrés Morelos</h2>
+<h2>Hey there! I'm Andrés Morelos</h2>
 
-<!-- ## 👋 &nbsp; Hey there! I'm Andres Morelos -->
-
-### 👨🏻‍💻 &nbsp; About Me
-
-💡 &nbsp; I like to explore new technologies and develop software solutions and quick hacks.\
-🌱 &nbsp; I'm on track for learning more about Data Science, Systems Design, and Cloud Architecture.\
-✍️ &nbsp; In my free time, I pursue Photo Shoots and Reading as hobbies/side hustles.\
-💬 &nbsp; Feel free to reach out to me for some interesting discussion.\
-✉️ &nbsp; You can shoot me an email at andresmorelos123@gmail.com! I'll try to respond as soon as I can.
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AndresMorelos/AndresMorelos/master/assets/coding.gif" align="right" width="300px"/>
 
 ### 🛠 &nbsp; Tech Stack
 
@@ -54,31 +43,10 @@
 - [¿Cómo crear un reenviador de correos sencillo usando AWS SES y Serverless?](https://andresmorelos.medium.com/c%C3%B3mo-crear-un-reenviador-de-correos-sencillo-usando-aws-ses-y-serverless-bf653385743a?source=rss-189eff4830bb------2)
 <!-- BLOG-POST-LIST:END -->
 
-#### Waka
-<!--START_SECTION:waka-->
-
-```text
-TypeScript   1 hr 41 mins    ██████████████▒░░░░░░░░░░   57.26 %
-SCSS         41 mins         ██████░░░░░░░░░░░░░░░░░░░   23.44 %
-JavaScript   23 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.22 %
-Other        7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
-```
-
-<!--END_SECTION:waka-->
-
-### ⚙️ &nbsp; GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/AndresMorelos">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=andresmorelos&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andresmorelos&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 
 ### 🤝🏻 &nbsp; Connect with Me
 
 <p align="center">
 <a href="https://andresmorelos.me"><img src="https://img.shields.io/badge/-andresmorelos.me-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/andresmorelos"><img src="https://img.shields.io/badge/-Andres%20Morelos-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:andresmorelos123@gmail.com"><img src="https://img.shields.io/badge/-andresmorelos123@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
