@@ -26,11 +26,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2266](https://github.com/pulumi/pulumi-aws/issues/2266) in [pulumi/pulumi-aws](https://github.com/pulumi/pulumi-aws)
-2. 🗣 Commented on [#6675](https://github.com/raycast/extensions/issues/6675) in [raycast/extensions](https://github.com/raycast/extensions)
-3. 🗣 Commented on [#7412](https://github.com/raycast/extensions/issues/7412) in [raycast/extensions](https://github.com/raycast/extensions)
-4. 🗣 Commented on [#6675](https://github.com/raycast/extensions/issues/6675) in [raycast/extensions](https://github.com/raycast/extensions)
-5. 🗣 Commented on [#70](https://github.com/FlavioAandres/FinancesApp/issues/70) in [FlavioAandres/FinancesApp](https://github.com/FlavioAandres/FinancesApp)
+1. 🗣 Commented on [#2266](https://github.com/pulumi/pulumi-aws/issues/2266#issuecomment-1624706001) in [pulumi/pulumi-aws](https://github.com/pulumi/pulumi-aws)
+2. 🗣 Commented on [#6675](https://github.com/raycast/extensions/issues/6675#issuecomment-1624693342) in [raycast/extensions](https://github.com/raycast/extensions)
+3. 🗣 Commented on [#7412](https://github.com/raycast/extensions/pull/7412#issuecomment-1624681904) in [raycast/extensions](https://github.com/raycast/extensions)
+4. 🗣 Commented on [#6675](https://github.com/raycast/extensions/issues/6675#issuecomment-1559530629) in [raycast/extensions](https://github.com/raycast/extensions)
+5. 🗣 Commented on [#70](https://github.com/FlavioAandres/FinancesApp/issues/70#issuecomment-1528358866) in [FlavioAandres/FinancesApp](https://github.com/FlavioAandres/FinancesApp)
 
 <!--END_SECTION:activity-->
 
