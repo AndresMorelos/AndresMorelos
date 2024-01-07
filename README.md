@@ -26,10 +26,10 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#51353](https://github.com/nodejs/node/pull/51353#issuecomment-1875867634) in [nodejs/node](https://github.com/nodejs/node)
-2. 🗣 Commented on [#51353](https://github.com/nodejs/node/pull/51353#issuecomment-1875848008) in [nodejs/node](https://github.com/nodejs/node)
-3. 💪 Opened PR [#51353](https://github.com/nodejs/node/pull/51353) in [nodejs/node](https://github.com/nodejs/node)
-4. 🗣 Commented on [#6675](https://github.com/raycast/extensions/issues/6675#issuecomment-1559530629) in [raycast/extensions](https://github.com/raycast/extensions)
+1. 💪 Opened PR [#1417](https://github.com/spaceship-prompt/spaceship-prompt/pull/1417) in [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt)
+2. 🗣 Commented on [#51353](https://github.com/nodejs/node/pull/51353#issuecomment-1875867634) in [nodejs/node](https://github.com/nodejs/node)
+3. 🗣 Commented on [#51353](https://github.com/nodejs/node/pull/51353#issuecomment-1875848008) in [nodejs/node](https://github.com/nodejs/node)
+4. 💪 Opened PR [#51353](https://github.com/nodejs/node/pull/51353) in [nodejs/node](https://github.com/nodejs/node)
 5. 🗣 Commented on [#70](https://github.com/FlavioAandres/FinancesApp/issues/70#issuecomment-1528358866) in [FlavioAandres/FinancesApp](https://github.com/FlavioAandres/FinancesApp)
 
 <!--END_SECTION:activity-->
