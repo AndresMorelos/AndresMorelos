@@ -24,11 +24,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#10054](https://github.com/raycast/extensions/pull/10054) in [raycast/extensions](https://github.com/raycast/extensions)
-2. 💪 Opened PR [#1417](https://github.com/spaceship-prompt/spaceship-prompt/pull/1417) in [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt)
-3. 🗣 Commented on [#51353](https://github.com/nodejs/node/pull/51353#issuecomment-1875867634) in [nodejs/node](https://github.com/nodejs/node)
-4. 🗣 Commented on [#51353](https://github.com/nodejs/node/pull/51353#issuecomment-1875848008) in [nodejs/node](https://github.com/nodejs/node)
-5. 💪 Opened PR [#51353](https://github.com/nodejs/node/pull/51353) in [nodejs/node](https://github.com/nodejs/node)
+1. 💪 Opened PR [#5693](https://github.com/starship/starship/pull/5693) in [starship/starship](https://github.com/starship/starship)
+2. 💪 Opened PR [#10054](https://github.com/raycast/extensions/pull/10054) in [raycast/extensions](https://github.com/raycast/extensions)
+3. 💪 Opened PR [#1417](https://github.com/spaceship-prompt/spaceship-prompt/pull/1417) in [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt)
+4. 🗣 Commented on [#51353](https://github.com/nodejs/node/pull/51353#issuecomment-1875867634) in [nodejs/node](https://github.com/nodejs/node)
+5. 🗣 Commented on [#51353](https://github.com/nodejs/node/pull/51353#issuecomment-1875848008) in [nodejs/node](https://github.com/nodejs/node)
 
 <!--END_SECTION:activity-->
 
