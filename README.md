@@ -24,11 +24,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#35236](https://github.com/hashicorp/terraform-provider-aws/pull/35236) in [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
-2. ❌ Closed PR [#5693](https://github.com/starship/starship/pull/5693) in [starship/starship](https://github.com/starship/starship)
-3. 💪 Opened PR [#5693](https://github.com/starship/starship/pull/5693) in [starship/starship](https://github.com/starship/starship)
-4. 💪 Opened PR [#10054](https://github.com/raycast/extensions/pull/10054) in [raycast/extensions](https://github.com/raycast/extensions)
-5. 💪 Opened PR [#1417](https://github.com/spaceship-prompt/spaceship-prompt/pull/1417) in [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt)
+1. 🗣 Commented on [#35007](https://github.com/hashicorp/terraform-provider-aws/issues/35007#issuecomment-1888277386) in [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
+2. 🗣 Commented on [#35236](https://github.com/hashicorp/terraform-provider-aws/pull/35236#issuecomment-1888274995) in [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
+3. 🗣 Commented on [#35236](https://github.com/hashicorp/terraform-provider-aws/pull/35236#issuecomment-1888271729) in [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
+4. 💪 Opened PR [#35236](https://github.com/hashicorp/terraform-provider-aws/pull/35236) in [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
+5. ❌ Closed PR [#5693](https://github.com/starship/starship/pull/5693) in [starship/starship](https://github.com/starship/starship)
 
 <!--END_SECTION:activity-->
 
