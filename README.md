@@ -24,11 +24,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#10986](https://github.com/raycast/extensions/issues/10986#issuecomment-1979772362) in [raycast/extensions](https://github.com/raycast/extensions)
-2. 🗣 Commented on [#10986](https://github.com/raycast/extensions/issues/10986#issuecomment-1975454927) in [raycast/extensions](https://github.com/raycast/extensions)
-3. 🗣 Commented on [#10986](https://github.com/raycast/extensions/issues/10986#issuecomment-1975437182) in [raycast/extensions](https://github.com/raycast/extensions)
-4. 🗣 Commented on [#10788](https://github.com/raycast/extensions/pull/10788#issuecomment-1950972133) in [raycast/extensions](https://github.com/raycast/extensions)
-5. 🗣 Commented on [#10054](https://github.com/raycast/extensions/pull/10054#issuecomment-1888304936) in [raycast/extensions](https://github.com/raycast/extensions)
+1. 🗣 Commented on [#10986](https://github.com/raycast/extensions/issues/10986#issuecomment-1981921407) in [raycast/extensions](https://github.com/raycast/extensions)
+2. 🗣 Commented on [#10986](https://github.com/raycast/extensions/issues/10986#issuecomment-1979772362) in [raycast/extensions](https://github.com/raycast/extensions)
+3. 🗣 Commented on [#10986](https://github.com/raycast/extensions/issues/10986#issuecomment-1975454927) in [raycast/extensions](https://github.com/raycast/extensions)
+4. 🗣 Commented on [#10986](https://github.com/raycast/extensions/issues/10986#issuecomment-1975437182) in [raycast/extensions](https://github.com/raycast/extensions)
+5. 🗣 Commented on [#10788](https://github.com/raycast/extensions/pull/10788#issuecomment-1950972133) in [raycast/extensions](https://github.com/raycast/extensions)
 
 <!--END_SECTION:activity-->
 
