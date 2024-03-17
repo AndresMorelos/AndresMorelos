@@ -24,11 +24,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#11](https://github.com/AndresMorelos/aws-accounts/issues/11) in [AndresMorelos/aws-accounts](https://github.com/AndresMorelos/aws-accounts)
-2. 🗣 Commented on [#10986](https://github.com/raycast/extensions/issues/10986#issuecomment-1981921407) in [raycast/extensions](https://github.com/raycast/extensions)
-3. 🗣 Commented on [#10986](https://github.com/raycast/extensions/issues/10986#issuecomment-1979772362) in [raycast/extensions](https://github.com/raycast/extensions)
-4. 🗣 Commented on [#10986](https://github.com/raycast/extensions/issues/10986#issuecomment-1975454927) in [raycast/extensions](https://github.com/raycast/extensions)
-5. 🗣 Commented on [#10986](https://github.com/raycast/extensions/issues/10986#issuecomment-1975437182) in [raycast/extensions](https://github.com/raycast/extensions)
+1. 💪 Opened PR [#36426](https://github.com/hashicorp/terraform-provider-aws/pull/36426) in [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
+2. 🔒 Closed issue [#11](https://github.com/AndresMorelos/aws-accounts/issues/11) in [AndresMorelos/aws-accounts](https://github.com/AndresMorelos/aws-accounts)
+3. 🗣 Commented on [#10986](https://github.com/raycast/extensions/issues/10986#issuecomment-1981921407) in [raycast/extensions](https://github.com/raycast/extensions)
+4. 🗣 Commented on [#10986](https://github.com/raycast/extensions/issues/10986#issuecomment-1979772362) in [raycast/extensions](https://github.com/raycast/extensions)
+5. 🗣 Commented on [#10986](https://github.com/raycast/extensions/issues/10986#issuecomment-1975454927) in [raycast/extensions](https://github.com/raycast/extensions)
 
 <!--END_SECTION:activity-->
 
