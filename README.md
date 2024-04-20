@@ -24,11 +24,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#10871](https://github.com/raycast/extensions/pull/10871#issuecomment-2015219178) in [raycast/extensions](https://github.com/raycast/extensions)
-2. 💪 Opened PR [#36426](https://github.com/hashicorp/terraform-provider-aws/pull/36426) in [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
-3. 🔒 Closed issue [#11](https://github.com/AndresMorelos/aws-accounts/issues/11) in [AndresMorelos/aws-accounts](https://github.com/AndresMorelos/aws-accounts)
-4. 🗣 Commented on [#10986](https://github.com/raycast/extensions/issues/10986#issuecomment-1981921407) in [raycast/extensions](https://github.com/raycast/extensions)
-5. 🗣 Commented on [#10986](https://github.com/raycast/extensions/issues/10986#issuecomment-1979772362) in [raycast/extensions](https://github.com/raycast/extensions)
+1. 💪 Opened PR [#1](https://github.com/drassusdk/Juego_De_Cooperacion/pull/1) in [drassusdk/Juego_De_Cooperacion](https://github.com/drassusdk/Juego_De_Cooperacion)
+2. 🗣 Commented on [#10871](https://github.com/raycast/extensions/pull/10871#issuecomment-2015219178) in [raycast/extensions](https://github.com/raycast/extensions)
+3. 💪 Opened PR [#36426](https://github.com/hashicorp/terraform-provider-aws/pull/36426) in [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
+4. 🔒 Closed issue [#11](https://github.com/AndresMorelos/aws-accounts/issues/11) in [AndresMorelos/aws-accounts](https://github.com/AndresMorelos/aws-accounts)
+5. 🗣 Commented on [#10986](https://github.com/raycast/extensions/issues/10986#issuecomment-1981921407) in [raycast/extensions](https://github.com/raycast/extensions)
 
 <!--END_SECTION:activity-->
 
