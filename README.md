@@ -24,7 +24,7 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#10986](https://github.com/raycast/extensions/issues/10986#issuecomment-2108506533) in [raycast/extensions](https://github.com/raycast/extensions)
+1. 🗣 Commented on [#114](https://github.com/functionalone/serverless-iam-roles-per-function/issues/114#issuecomment-2715539804) in [functionalone/serverless-iam-roles-per-function](https://github.com/functionalone/serverless-iam-roles-per-function)
 2. 💪 Opened PR [#1](https://github.com/drassusdk/Juego_De_Cooperacion/pull/1) in [drassusdk/Juego_De_Cooperacion](https://github.com/drassusdk/Juego_De_Cooperacion)
 3. 🗣 Commented on [#10871](https://github.com/raycast/extensions/pull/10871#issuecomment-2015219178) in [raycast/extensions](https://github.com/raycast/extensions)
 4. 💪 Opened PR [#36426](https://github.com/hashicorp/terraform-provider-aws/pull/36426) in [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
