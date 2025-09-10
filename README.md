@@ -24,10 +24,10 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#276](https://github.com/decentraland/ui2/pull/276) in [decentraland/ui2](https://github.com/decentraland/ui2)
-2. 💪 Opened PR [#31](https://github.com/decentraland/jump-site/pull/31) in [decentraland/jump-site](https://github.com/decentraland/jump-site)
-3. 🗣 Commented on [#10871](https://github.com/raycast/extensions/pull/10871#issuecomment-2015219178) in [raycast/extensions](https://github.com/raycast/extensions)
-4. 💪 Opened PR [#36426](https://github.com/hashicorp/terraform-provider-aws/pull/36426) in [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
+1. 🗣 Commented on [#249](https://github.com/decentraland/dapps-issues/issues/249#issuecomment-3270416640) in [decentraland/dapps-issues](https://github.com/decentraland/dapps-issues)
+2. ❌ Closed PR [#276](https://github.com/decentraland/ui2/pull/276) in [decentraland/ui2](https://github.com/decentraland/ui2)
+3. 💪 Opened PR [#276](https://github.com/decentraland/ui2/pull/276) in [decentraland/ui2](https://github.com/decentraland/ui2)
+4. 💪 Opened PR [#31](https://github.com/decentraland/jump-site/pull/31) in [decentraland/jump-site](https://github.com/decentraland/jump-site)
 5. 🔒 Closed issue [#11](https://github.com/AndresMorelos/aws-accounts/issues/11) in [AndresMorelos/aws-accounts](https://github.com/AndresMorelos/aws-accounts)
 
 <!--END_SECTION:activity-->
