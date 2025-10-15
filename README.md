@@ -24,11 +24,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#75](https://github.com/decentraland/auth-server/pull/75) in [decentraland/auth-server](https://github.com/decentraland/auth-server)
-2. 🎉 Merged PR [#192](https://github.com/decentraland/auth/pull/192) in [decentraland/auth](https://github.com/decentraland/auth)
-3. 🗣 Commented on [#249](https://github.com/decentraland/dapps-issues/issues/249#issuecomment-3270416640) in [decentraland/dapps-issues](https://github.com/decentraland/dapps-issues)
-4. ❌ Closed PR [#276](https://github.com/decentraland/ui2/pull/276) in [decentraland/ui2](https://github.com/decentraland/ui2)
-5. 💪 Opened PR [#276](https://github.com/decentraland/ui2/pull/276) in [decentraland/ui2](https://github.com/decentraland/ui2)
+1. 💪 Opened PR [#436](undefined) in [decentraland/lamb2](https://github.com/decentraland/lamb2)
+2. 💪 Opened PR [#375](undefined) in [decentraland/schemas](https://github.com/decentraland/schemas)
+3. 💪 Opened PR [#24](undefined) in [decentraland/core-components](https://github.com/decentraland/core-components)
+4. 🗣 Commented on [#434](https://github.com/decentraland/lamb2/pull/434#issuecomment-3390750814) in [decentraland/lamb2](https://github.com/decentraland/lamb2)
+5. ❌ Closed PR [#434](undefined) in [decentraland/lamb2](https://github.com/decentraland/lamb2)
 
 <!--END_SECTION:activity-->
 
