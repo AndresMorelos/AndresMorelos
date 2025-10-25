@@ -24,11 +24,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#436](undefined) in [decentraland/lamb2](https://github.com/decentraland/lamb2)
-2. 💪 Opened PR [#375](undefined) in [decentraland/schemas](https://github.com/decentraland/schemas)
-3. 💪 Opened PR [#24](undefined) in [decentraland/core-components](https://github.com/decentraland/core-components)
-4. 🗣 Commented on [#434](https://github.com/decentraland/lamb2/pull/434#issuecomment-3390750814) in [decentraland/lamb2](https://github.com/decentraland/lamb2)
-5. ❌ Closed PR [#434](undefined) in [decentraland/lamb2](https://github.com/decentraland/lamb2)
+1. 💪 Opened PR [#34](undefined) in [decentraland/platform-actions](https://github.com/decentraland/platform-actions)
+2. 💪 Opened PR [#436](undefined) in [decentraland/lamb2](https://github.com/decentraland/lamb2)
+3. 💪 Opened PR [#375](undefined) in [decentraland/schemas](https://github.com/decentraland/schemas)
+4. 💪 Opened PR [#24](undefined) in [decentraland/core-components](https://github.com/decentraland/core-components)
+5. 🗣 Commented on [#434](https://github.com/decentraland/lamb2/pull/434#issuecomment-3390750814) in [decentraland/lamb2](https://github.com/decentraland/lamb2)
 
 <!--END_SECTION:activity-->
 
