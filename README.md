@@ -24,11 +24,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [20.2.1](https://github.com/decentraland/schemas/releases/tag/20.2.1) in [decentraland/schemas](https://github.com/decentraland/schemas)
-2. 💪 Opened PR [#68](undefined) in [decentraland/marketplace-squid-core](https://github.com/decentraland/marketplace-squid-core)
-3. 💪 Opened PR [#390](undefined) in [decentraland/schemas](https://github.com/decentraland/schemas)
-4. 🚀 Published release [0.42.8](https://github.com/decentraland/ui2/releases/tag/0.42.8) in [decentraland/ui2](https://github.com/decentraland/ui2)
-5. 🚀 Published release [20.2.0](https://github.com/decentraland/schemas/releases/tag/20.2.0) in [decentraland/schemas](https://github.com/decentraland/schemas)
+1. 💪 Opened PR [#330](undefined) in [decentraland/ui2](https://github.com/decentraland/ui2)
+2. 🚀 Published release [20.2.1](https://github.com/decentraland/schemas/releases/tag/20.2.1) in [decentraland/schemas](https://github.com/decentraland/schemas)
+3. 💪 Opened PR [#68](undefined) in [decentraland/marketplace-squid-core](https://github.com/decentraland/marketplace-squid-core)
+4. 💪 Opened PR [#390](undefined) in [decentraland/schemas](https://github.com/decentraland/schemas)
+5. 🚀 Published release [0.42.8](https://github.com/decentraland/ui2/releases/tag/0.42.8) in [decentraland/ui2](https://github.com/decentraland/ui2)
 
 <!--END_SECTION:activity-->
 
