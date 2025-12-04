@@ -24,11 +24,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#23083](https://github.com/raycast/extensions/issues/23083#issuecomment-3603192285) in [raycast/extensions](https://github.com/raycast/extensions)
-2. 💪 Opened PR [#330](undefined) in [decentraland/ui2](https://github.com/decentraland/ui2)
-3. 🚀 Published release [20.2.1](https://github.com/decentraland/schemas/releases/tag/20.2.1) in [decentraland/schemas](https://github.com/decentraland/schemas)
-4. ❌ Merged PR [#390](undefined) in [decentraland/schemas](https://github.com/decentraland/schemas)
-5. 💪 Opened PR [#68](undefined) in [decentraland/marketplace-squid-core](https://github.com/decentraland/marketplace-squid-core)
+1. ❌ Merged PR [#68](undefined) in [decentraland/marketplace-squid-core](https://github.com/decentraland/marketplace-squid-core)
+2. ❌ Merged PR [#330](undefined) in [decentraland/ui2](https://github.com/decentraland/ui2)
+3. ❌ Merged PR [#214](undefined) in [decentraland/auth](https://github.com/decentraland/auth)
+4. 🗣 Commented on [#23083](https://github.com/raycast/extensions/issues/23083#issuecomment-3603192285) in [raycast/extensions](https://github.com/raycast/extensions)
+5. 💪 Opened PR [#330](undefined) in [decentraland/ui2](https://github.com/decentraland/ui2)
 
 <!--END_SECTION:activity-->
 
