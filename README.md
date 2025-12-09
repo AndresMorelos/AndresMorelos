@@ -24,11 +24,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#227](undefined) in [decentraland/auth](https://github.com/decentraland/auth)
-2. ❌ Merged PR [#68](undefined) in [decentraland/marketplace-squid-core](https://github.com/decentraland/marketplace-squid-core)
-3. ❌ Merged PR [#330](undefined) in [decentraland/ui2](https://github.com/decentraland/ui2)
-4. ❌ Merged PR [#214](undefined) in [decentraland/auth](https://github.com/decentraland/auth)
-5. 🗣 Commented on [#23083](https://github.com/raycast/extensions/issues/23083#issuecomment-3603192285) in [raycast/extensions](https://github.com/raycast/extensions)
+1. 💪 Opened PR [#338](undefined) in [decentraland/ui2](https://github.com/decentraland/ui2)
+2. 💪 Opened PR [#394](undefined) in [decentraland/schemas](https://github.com/decentraland/schemas)
+3. 💪 Opened PR [#227](undefined) in [decentraland/auth](https://github.com/decentraland/auth)
+4. ❌ Merged PR [#68](undefined) in [decentraland/marketplace-squid-core](https://github.com/decentraland/marketplace-squid-core)
+5. ❌ Merged PR [#330](undefined) in [decentraland/ui2](https://github.com/decentraland/ui2)
 
 <!--END_SECTION:activity-->
 
