@@ -24,11 +24,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❌ Merged PR [#71](undefined) in [decentraland/marketplace-squid-core](https://github.com/decentraland/marketplace-squid-core)
-2. 💪 Opened PR [#71](undefined) in [decentraland/marketplace-squid-core](https://github.com/decentraland/marketplace-squid-core)
-3. 💪 Opened PR [#338](undefined) in [decentraland/ui2](https://github.com/decentraland/ui2)
-4. 💪 Opened PR [#394](undefined) in [decentraland/schemas](https://github.com/decentraland/schemas)
-5. 💪 Opened PR [#227](undefined) in [decentraland/auth](https://github.com/decentraland/auth)
+1. 🚀 Published release [4.10.0](https://github.com/decentraland/lamb2/releases/tag/4.10.0) in [decentraland/lamb2](https://github.com/decentraland/lamb2)
+2. ❌ Merged PR [#456](undefined) in [decentraland/lamb2](https://github.com/decentraland/lamb2)
+3. 💪 Opened PR [#775](undefined) in [decentraland/places](https://github.com/decentraland/places)
+4. 💪 Opened PR [#456](undefined) in [decentraland/lamb2](https://github.com/decentraland/lamb2)
+5. ❌ Merged PR [#71](undefined) in [decentraland/marketplace-squid-core](https://github.com/decentraland/marketplace-squid-core)
 
 <!--END_SECTION:activity-->
 
