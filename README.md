@@ -24,11 +24,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [4.10.0](https://github.com/decentraland/lamb2/releases/tag/4.10.0) in [decentraland/lamb2](https://github.com/decentraland/lamb2)
-2. 🎉 Merged PR [#456](https://github.com/decentraland/lamb2/pull/456) in [decentraland/lamb2](https://github.com/decentraland/lamb2)
-3. 💪 Opened PR [#775](https://github.com/decentraland/places/pull/775) in [decentraland/places](https://github.com/decentraland/places)
-4. 💪 Opened PR [#456](https://github.com/decentraland/lamb2/pull/456) in [decentraland/lamb2](https://github.com/decentraland/lamb2)
-5. 🎉 Merged PR [#71](https://github.com/decentraland/marketplace-squid-core/pull/71) in [decentraland/marketplace-squid-core](https://github.com/decentraland/marketplace-squid-core)
+1. 🚀 Published release [22.0.0](https://github.com/decentraland/schemas/releases/tag/22.0.0) in [decentraland/schemas](https://github.com/decentraland/schemas)
+2. 🎉 Merged PR [#394](https://github.com/decentraland/schemas/pull/394) in [decentraland/schemas](https://github.com/decentraland/schemas)
+3. 🚀 Published release [4.10.0](https://github.com/decentraland/lamb2/releases/tag/4.10.0) in [decentraland/lamb2](https://github.com/decentraland/lamb2)
+4. 🎉 Merged PR [#456](https://github.com/decentraland/lamb2/pull/456) in [decentraland/lamb2](https://github.com/decentraland/lamb2)
+5. 💪 Opened PR [#775](https://github.com/decentraland/places/pull/775) in [decentraland/places](https://github.com/decentraland/places)
 
 <!--END_SECTION:activity-->
 
