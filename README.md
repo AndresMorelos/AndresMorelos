@@ -24,11 +24,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [1.1.7](https://github.com/decentraland/ui2/releases/tag/1.1.7) in [decentraland/ui2](https://github.com/decentraland/ui2)
-2. 🎉 Merged PR [#338](https://github.com/decentraland/ui2/pull/338) in [decentraland/ui2](https://github.com/decentraland/ui2)
-3. 🚀 Published release [22.0.0](https://github.com/decentraland/schemas/releases/tag/22.0.0) in [decentraland/schemas](https://github.com/decentraland/schemas)
-4. 🎉 Merged PR [#394](https://github.com/decentraland/schemas/pull/394) in [decentraland/schemas](https://github.com/decentraland/schemas)
-5. 🚀 Published release [4.10.0](https://github.com/decentraland/lamb2/releases/tag/4.10.0) in [decentraland/lamb2](https://github.com/decentraland/lamb2)
+1. 🎉 Merged PR [#778](https://github.com/decentraland/places/pull/778) in [decentraland/places](https://github.com/decentraland/places)
+2. 💪 Opened PR [#778](https://github.com/decentraland/places/pull/778) in [decentraland/places](https://github.com/decentraland/places)
+3. 🎉 Merged PR [#775](https://github.com/decentraland/places/pull/775) in [decentraland/places](https://github.com/decentraland/places)
+4. 🚀 Published release [1.1.7](https://github.com/decentraland/ui2/releases/tag/1.1.7) in [decentraland/ui2](https://github.com/decentraland/ui2)
+5. 🎉 Merged PR [#338](https://github.com/decentraland/ui2/pull/338) in [decentraland/ui2](https://github.com/decentraland/ui2)
 
 <!--END_SECTION:activity-->
 
