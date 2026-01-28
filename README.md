@@ -24,11 +24,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#785](https://github.com/decentraland/places/pull/785) in [decentraland/places](https://github.com/decentraland/places)
-2. 💪 Opened PR [#785](https://github.com/decentraland/places/pull/785) in [decentraland/places](https://github.com/decentraland/places)
-3. 🎉 Merged PR [#782](https://github.com/decentraland/places/pull/782) in [decentraland/places](https://github.com/decentraland/places)
-4. 🎉 Merged PR [#225](https://github.com/decentraland/comms-gatekeeper/pull/225) in [decentraland/comms-gatekeeper](https://github.com/decentraland/comms-gatekeeper)
-5. 🎉 Merged PR [#241](https://github.com/decentraland/auth/pull/241) in [decentraland/auth](https://github.com/decentraland/auth)
+1. 💪 Opened PR [#883](https://github.com/decentraland/events/pull/883) in [decentraland/events](https://github.com/decentraland/events)
+2. 🎉 Merged PR [#786](https://github.com/decentraland/places/pull/786) in [decentraland/places](https://github.com/decentraland/places)
+3. 💪 Opened PR [#786](https://github.com/decentraland/places/pull/786) in [decentraland/places](https://github.com/decentraland/places)
+4. 🎉 Merged PR [#785](https://github.com/decentraland/places/pull/785) in [decentraland/places](https://github.com/decentraland/places)
+5. 💪 Opened PR [#785](https://github.com/decentraland/places/pull/785) in [decentraland/places](https://github.com/decentraland/places)
 
 <!--END_SECTION:activity-->
 
