@@ -24,11 +24,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [2.18.0](https://github.com/decentraland/comms-gatekeeper/releases/tag/2.18.0) in [decentraland/comms-gatekeeper](https://github.com/decentraland/comms-gatekeeper)
-2. 🎉 Merged PR [#789](https://github.com/decentraland/places/pull/789) in [decentraland/places](https://github.com/decentraland/places)
-3. 💪 Opened PR [#789](https://github.com/decentraland/places/pull/789) in [decentraland/places](https://github.com/decentraland/places)
-4. 🎉 Merged PR [#788](https://github.com/decentraland/places/pull/788) in [decentraland/places](https://github.com/decentraland/places)
-5. 💪 Opened PR [#788](https://github.com/decentraland/places/pull/788) in [decentraland/places](https://github.com/decentraland/places)
+1. 💪 Opened PR [#790](https://github.com/decentraland/places/pull/790) in [decentraland/places](https://github.com/decentraland/places)
+2. 🎉 Merged PR [#885](https://github.com/decentraland/events/pull/885) in [decentraland/events](https://github.com/decentraland/events)
+3. 💪 Opened PR [#885](https://github.com/decentraland/events/pull/885) in [decentraland/events](https://github.com/decentraland/events)
+4. 🚀 Published release [2.18.0](https://github.com/decentraland/comms-gatekeeper/releases/tag/2.18.0) in [decentraland/comms-gatekeeper](https://github.com/decentraland/comms-gatekeeper)
+5. 🎉 Merged PR [#789](https://github.com/decentraland/places/pull/789) in [decentraland/places](https://github.com/decentraland/places)
 
 <!--END_SECTION:activity-->
 
