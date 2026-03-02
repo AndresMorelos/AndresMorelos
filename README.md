@@ -20,18 +20,6 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](https://github.com/AndresMorelos?tab=repositories&q=&type=&language=)&nbsp; 
 [![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)](https://github.com/AndresMorelos?tab=repositories&q=&type=&language=)&nbsp; 
 
-### 💻 Recent Activity
-
-<!--START_SECTION:activity-->
-
-1. 🎉 Merged PR [#797](https://github.com/decentraland/places/pull/797) in [decentraland/places](https://github.com/decentraland/places)
-2. 💪 Opened PR [#897](https://github.com/decentraland/events/pull/897) in [decentraland/events](https://github.com/decentraland/events)
-3. 🚀 Published release [4.11.0](https://github.com/decentraland/lamb2/releases/tag/4.11.0) in [decentraland/lamb2](https://github.com/decentraland/lamb2)
-4. 🎉 Merged PR [#460](https://github.com/decentraland/lamb2/pull/460) in [decentraland/lamb2](https://github.com/decentraland/lamb2)
-5. 💪 Opened PR [#460](https://github.com/decentraland/lamb2/pull/460) in [decentraland/lamb2](https://github.com/decentraland/lamb2)
-
-<!--END_SECTION:activity-->
-
 
 ### 🤝🏻 &nbsp; Connect with Me
 
